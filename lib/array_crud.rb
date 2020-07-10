@@ -1,9 +1,9 @@
 def create_an_empty_array
-  
+  names = array.new
 end
 
 def create_an_array
-  
+  numbers = [8023804812, 911, 411]
 end
 
 def add_element_to_end_of_array(array, element)
