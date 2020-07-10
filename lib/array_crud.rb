@@ -3,11 +3,11 @@ def create_an_empty_array
 end
 
 def create_an_array
-  numbers = [8023804812, 911, 411]
+  numbers = [8023804812, 911, 411, 8023801795]
 end
 
 def add_element_to_end_of_array(array, element)
-  
+  array.push(element)
 end
 
 def add_element_to_start_of_array(array, element)
